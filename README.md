@@ -9,10 +9,7 @@
 * Fun fact: I love be high🌿 
 
 
-### Connect with me:
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -42,7 +39,14 @@
 <br />
 <br />
 
----
+-----
+
+### Connect with me:
+
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
 
 
 [instagram]: https://www.instagram.com/gk_arthub/
