@@ -1,4 +1,4 @@
-#### Hi there, I'm Gautam 👋
+#### 👋 Hi there, I'm Gautam 👋
 🎨 A creative Developer 🧑‍🎨
 
 
