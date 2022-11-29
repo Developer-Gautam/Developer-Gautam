@@ -1,5 +1,5 @@
 #### Hi there, I'm Gautam 👋
-🎨 A creative Develope 🧑‍🎨
+🎨 A creative Developer 🧑‍🎨
 
 
 # An Artist turned into a Developer!!
