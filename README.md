@@ -5,8 +5,8 @@
 # An Artist turned into a Developer!!
 
 * I’m currently learning everything 🤣
-* 2023 Goals: Improve my web/applicatoin development skills 🥅
-* Fun fact: I love be high🌿 
+* 2023 Goals: Improve my web/application development skills 🥅
+* Fun fact: I love to be high🌿 
 
 
 
