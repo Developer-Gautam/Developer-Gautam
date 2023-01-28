@@ -6,8 +6,7 @@
 
 * I’m currently learning everything 🤣
 * 2023 Goals: Improve my web/application development skills 🥅
-* Fun fact: I love to be high🌿 
-
+ 
 
 
 
