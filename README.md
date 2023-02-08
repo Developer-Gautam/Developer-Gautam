@@ -1,8 +1,7 @@
 #### 👋 Hi there, I'm Gautam 👋
+
 🎨 A 20 year old creative Developer 🧑‍🎨
-
-
-# An Artist turned into a Developer!!
+ https://gautam-kumar.netlify.app/
 
 * I’m currently learning everything 🤣
 * 2023 Goals: Improve my web/application development skills 🥅
