@@ -15,7 +15,7 @@
 
 
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
+<img align="left" alt="HTML5" width="26px" height ="30px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
 <img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 <img align="left" alt="React" width="26px" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" />
