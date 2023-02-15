@@ -13,11 +13,7 @@
 
 ### 🛠 Skills
 
-<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/1200px-Calligrakrita-base.svg.png" />
-<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" />
-<img align="left" alt="Terminal" width="26px" src="https://cdn-icons-png.flaticon.com/512/541/541586.png" />
 
-<img align="left" alt="Terminal" width="26px" src="https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
 <img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
@@ -29,6 +25,12 @@
 <img align="left" alt="MongoDB" width="26px" src="https://toppng.com//public/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" />
 
 <img align="left" alt="Terminal" width="26px" src="https://e7.pngegg.com/pngimages/482/922/png-clipart-application-programming-interface-logo-computer-programming-api-icon-text-logo.png" />
+
+<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/1200px-Calligrakrita-base.svg.png" />
+<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" />
+<img align="left" alt="Terminal" width="26px" src="https://cdn-icons-png.flaticon.com/512/541/541586.png" />
+
+<img align="left" alt="Terminal" width="26px" src="https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png" />
 
 
 <img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
