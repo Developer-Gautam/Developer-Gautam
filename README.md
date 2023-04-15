@@ -1,5 +1,7 @@
 #### 👋 Hi there, I'm Gautam 👋
 
+An Artist turned Developer
+
 🎨 A 20 year old creative Developer 🧑‍🎨
  https://gautam-kumar.netlify.app/
 
