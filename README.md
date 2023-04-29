@@ -37,7 +37,7 @@ An Artist turned Developer
 
 <img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 <img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/High-contrast-utilities-terminal.png" />
-<img align="left" alt="Terminal" width="26px" src="[https://upload.wikimedia.org/wikipedia/commons/8/8f/High-contrast-utilities-terminal.png](https://www.nicepng.com/png/detail/222-2224978_how-react-native-works-react-native-logo-png.png)" />
+
 
 <br />
 <br />
