@@ -2,7 +2,7 @@
 
 An Artist turned Developer
 
-🎨 A 20 year old creative Developer 🧑‍🎨
+🎨 A creative Developer 🧑‍🎨
  https://gautam-kumar.netlify.app/
 
 * I’m currently having fun
