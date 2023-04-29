@@ -1,8 +1,7 @@
 #### 👋 Hi there, I'm Gautam 👋
 
-An Artist turned Developer
+🎨 An Artist turned Developer 🧑‍🎨
 
-🎨 A creative Developer 🧑‍🎨
  https://gautam-kumar.netlify.app/
 
 * I’m currently having fun
