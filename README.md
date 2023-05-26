@@ -2,7 +2,6 @@
 
 🎨 An Artist turned Developer 🧑‍🎨
 
- https://gautam-kumar.netlify.app/
 
 * I’m currently having fun
 * 2023 Goals: Improve my IOS, Android and web development skills 🥅
