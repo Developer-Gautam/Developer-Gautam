@@ -17,7 +17,7 @@
 
 <img align="left" alt="Figma" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
 <img align="left" alt="Photoshop" width="26px" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" />
-<img align="left" alt="Krita" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Krita_Logo.svg" />
+<img align="left" alt="Krita" width="26px" src="https://www.vectorlogo.zone/logos/krita/krita-icon.svg" />
 <img align="left" alt="Premiere Pro" width="26px" src="https://cdn.worldvectorlogo.com/logos/premiere-pro-cc.svg" />
 <img align="left" alt="After Effects" width="26px" src="https://cdn.worldvectorlogo.com/logos/after-effects-cc.svg" />
 <img align="left" alt="Adobe XD" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />
