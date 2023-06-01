@@ -31,9 +31,9 @@
 <img align="left" alt="React.js" width="26px" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" />
 <img align="left" alt="Next.js" width="26px" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" />
 <img align="left" alt="Node.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" />
-<img align="left" alt="Express.js" width="26px" src="https://cdn.worldvectorlogo.com/logos/express-109.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://toppng.com//public/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" />
-<img align="left" alt="Solidity" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" />
+<img align="left" alt="Express.js" width="26px" src="https://e7.pngegg.com/pngimages/247/558/png-clipart-node-js-javascript-express-js-npm-react-github-angle-text.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Picture.png" />
+<img align="left" alt="Solidity" width="26px" src="https://www.svgrepo.com/show/374088/solidity.svg" />
 <img align="left" alt="Three.js" width="26px" src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" />
 <img align="left" alt="Chakra UI" width="26px" src="https://media.graphassets.com/91q3gAEGSh6HCrpnPgxS" />
 <img align="left" alt="Material UI" width="26px" src="https://mui.com/static/logo.png" />
