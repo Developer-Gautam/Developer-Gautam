@@ -61,6 +61,7 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/gautam-kumar-0672b0238/)
 [<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />](https://www.instagram.com/gkarthub.in/)
 
+<br />
 
 ### Portfolio:
 
