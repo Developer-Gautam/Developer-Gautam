@@ -7,7 +7,7 @@
 
 ### 🛠 Skills
 
-#### Designing Tools
+#### 🧑‍🎨 Designing Tools
 <img align="left" alt="Figma" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
 <img align="left" alt="Photoshop" width="26px" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" />
 <img align="left" alt="Krita" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/1200px-Calligrakrita-base.svg.png" />
@@ -16,13 +16,13 @@
 
 <br/>
 
-#### Video Editing
+#### 📽️ Video Editing
 <img align="left" alt="Premiere Pro" width="26px" src="https://cdn.worldvectorlogo.com/logos/premiere-pro-cc.svg" />
 <img align="left" alt="After Effects" width="26px" src="https://cdn.worldvectorlogo.com/logos/after-effects-cc.svg" />
 
 <br/>
 
-#### Frontend Development
+#### 👨‍💻 Frontend Development
 <img align="left" alt="HTML5" width="26px" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
 <img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" />
@@ -35,7 +35,7 @@
 
 <br/>
 
-#### Backend Development
+#### 📅 Backend Development
 <img align="left" alt="Node.js" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
 <img align="left" alt="Express.js" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-3521610-2945054.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-3521676-2945120.png" />
@@ -45,7 +45,7 @@
 
 <br/>
 
-#### UI Frameworks
+#### 🎭 UI Frameworks
 <img align="left" alt="Chakra UI" width="26px" src="https://media.graphassets.com/91q3gAEGSh6HCrpnPgxS" />
 <img align="left" alt="Material UI" width="26px" src="https://mui.com/static/logo.png" />
 <img align="left" alt="Semantic UI" width="26px" src="https://react.semantic-ui.com/logo.png" />
@@ -56,11 +56,12 @@
 
 -----
 
-### Connect with me:
+### 🤙 Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/gautam-kumar-0672b0238/)
+[<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />](https://www.instagram.com/gkarthub.in/)
+
 
 ### Portfolio:
 
-[Portfolio](https://gautam-kumar.netlify.app)
+[PORTFOLIO (Click Here)](https://gautam-kumar.netlify.app)
