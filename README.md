@@ -15,27 +15,32 @@
 
 
 
+<img align="left" alt="Figma" width="26px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" />
+<img align="left" alt="Photoshop" width="26px" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" />
+<img align="left" alt="Krita" width="26px" src="https://cdn.worldvectorlogo.com/logos/krita-2.svg" />
+<img align="left" alt="Premiere Pro" width="26px" src="https://cdn.worldvectorlogo.com/logos/premiere-pro-cc.svg" />
+<img align="left" alt="After Effects" width="26px" src="https://cdn.worldvectorlogo.com/logos/after-effects-cc.svg" />
+<img align="left" alt="Adobe XD" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />
+<img align="left" alt="Blender" width="26px" src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" />
 <img align="left" alt="HTML5" width="26px" height ="30px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
 <img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
+<img align="left" alt="Sass" width="26px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" />
+<img align="left" alt="Tailwind CSS" width="26px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss-icon.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
-<img align="left" alt="React" width="26px" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" />
-<img align="left" alt="Terminal" width="26px" src="https://w7.pngwing.com/pngs/413/852/png-transparent-redux-react-logo-javascript-dq-purple-violet-text-thumbnail.png" />
+<img align="left" alt="Vue.js" width="26px" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" />
+<img align="left" alt="React.js" width="26px" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" />
+<img align="left" alt="Next.js" width="26px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" />
-
+<img align="left" alt="Express.js" width="26px" src="https://cdn.worldvectorlogo.com/logos/express-109.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://toppng.com//public/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://e7.pngegg.com/pngimages/482/922/png-clipart-application-programming-interface-logo-computer-programming-api-icon-text-logo.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/1200px-Calligrakrita-base.svg.png" />
-<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" />
-<img align="left" alt="Terminal" width="26px" src="https://cdn-icons-png.flaticon.com/512/541/541586.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png" />
-
-
-<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
-<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/High-contrast-utilities-terminal.png" />
-
+<img align="left" alt="Solidity" width="26px" src="https://cdn.worldvectorlogo.com/logos/solidity-1.svg" />
+<img align="left" alt="Three.js" width="26px" src="https://cdn.worldvectorlogo.com/logos/three-js.svg" />
+<img align="left" alt="Chakra UI" width="26px" src="https://cdn.worldvectorlogo.com/logos/chakra-ui-1.svg" />
+<img align="left" alt="Material UI" width="26px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" />
+<img align="left" alt="Semantic UI" width="26px" src="https://cdn.worldvectorlogo.com/logos/semantic-ui-2.svg" />
+<img align="left" alt="Bootstrap" width="26px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" />
+<img align="left" alt="Bulma" width="26px" src="https://cdn.worldvectorlogo.com/logos/bulma-1.svg" />
+<br />
 
 <br />
 <br />
@@ -50,5 +55,5 @@
 
 
 
-[instagram]: https://www.instagram.com/gk_arthub/
+[instagram]: https://www.instagram.com/gkarthub.in/
 [linkedin]: https://www.linkedin.com/in/gautam-kumar-0672b0238/
