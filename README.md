@@ -37,9 +37,8 @@
 <img align="left" alt="Three.js" width="26px" src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" />
 <img align="left" alt="Chakra UI" width="26px" src="https://media.graphassets.com/91q3gAEGSh6HCrpnPgxS" />
 <img align="left" alt="Material UI" width="26px" src="https://mui.com/static/logo.png" />
-<img align="left" alt="Semantic UI" width="26px" src="https://cdn.worldvectorlogo.com/logos/semantic-ui-2.svg" />
+<img align="left" alt="Semantic UI" width="26px" src="https://react.semantic-ui.com/logo.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" />
-<img align="left" alt="Bulma" width="26px" src="https://cdn.worldvectorlogo.com/logos/bulma-1.svg" />
 <br />
 
 <br />
