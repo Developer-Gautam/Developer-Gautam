@@ -24,6 +24,7 @@
 <img align="left" alt="Blender" width="26px" src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" />
 <img align="left" alt="HTML5" width="26px" height ="30px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
 <img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
+<img align="left" alt="Framer Motion" width="26px" src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" />
 <img align="left" alt="Tailwind CSS" width="26px" src="https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default" />
 <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
