@@ -41,7 +41,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Picture.png" />
 <img align="left" alt="Solidity" width="26px" src="https://www.svgrepo.com/show/374088/solidity.svg" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
-<img align="left" alt="Firebase" width="26px" src="https://png.pngitem.com/pimgs/s/31-317100_firebase-logo-png-transparent-png.png" />
+<img align="left" alt="Firebase" width="26px" src="https://w7.pngwing.com/pngs/398/821/png-transparent-firebase-google-google-i-o-icon.png" />
 
 <br/>
 
