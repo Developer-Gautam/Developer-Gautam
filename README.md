@@ -25,7 +25,7 @@
 <img align="left" alt="HTML5" width="26px" height ="30px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
 <img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" />
-<img align="left" alt="Tailwind CSS" width="26px" src="[https://cdn.worldvectorlogo.com/logos/tailwindcss-icon.svg](https://yt3.googleusercontent.com/ikv41jMTr1uHGdILrJhvbfVJcDt4oqhwApKX37TjAleF_cRPbF2W-waj7uMnS5JySvnlvAlTCg=s900-c-k-c0x00ffffff-no-rj)" />
+<img align="left" alt="Tailwind CSS" width="26px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--zKQJKp9C--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/1jqa96mtdymq7ydgjqf1.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 <img align="left" alt="Vue.js" width="26px" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" />
 <img align="left" alt="React.js" width="26px" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" />
