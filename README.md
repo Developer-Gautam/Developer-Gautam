@@ -14,9 +14,13 @@
 <img align="left" alt="Adobe XD" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />
 <img align="left" alt="Blender" width="26px" src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" />
 
+<br/>
+
 #### Video Editing
 <img align="left" alt="Premiere Pro" width="26px" src="https://cdn.worldvectorlogo.com/logos/premiere-pro-cc.svg" />
 <img align="left" alt="After Effects" width="26px" src="https://cdn.worldvectorlogo.com/logos/after-effects-cc.svg" />
+
+<br/>
 
 #### Frontend Development
 <img align="left" alt="HTML5" width="26px" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
@@ -29,11 +33,16 @@
 <img align="left" alt="React.js" width="26px" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" />
 <img align="left" alt="Next.js" width="26px" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" />
 
+<br/>
+
 #### Backend Development
 <img align="left" alt="Node.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" />
 <img align="left" alt="Express.js" width="26px" src="https://e7.pngegg.com/pngimages/247/558/png-clipart-node-js-javascript-express-js-npm-react-github-angle-text.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Picture.png" />
 <img align="left" alt="Solidity" width="26px" src="https://www.svgrepo.com/show/374088/solidity.svg" />
+
+
+<br/>
 
 #### UI Frameworks
 <img align="left" alt="Chakra UI" width="26px" src="https://media.graphassets.com/91q3gAEGSh6HCrpnPgxS" />
