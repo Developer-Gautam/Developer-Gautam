@@ -34,7 +34,7 @@
 <img align="left" alt="Express.js" width="26px" src="https://cdn.worldvectorlogo.com/logos/express-109.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://toppng.com//public/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" />
 <img align="left" alt="Solidity" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" />
-<img align="left" alt="Three.js" width="26px" src="[https://upload.wikimedia.org/wikipedia/commons/d/dd/Three.js_logo.svg](https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png)" />
+<img align="left" alt="Three.js" width="26px" src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" />
 <img align="left" alt="Chakra UI" width="26px" src="https://media.graphassets.com/91q3gAEGSh6HCrpnPgxS" />
 <img align="left" alt="Material UI" width="26px" src="https://mui.com/static/logo.png" />
 <img align="left" alt="Semantic UI" width="26px" src="https://cdn.worldvectorlogo.com/logos/semantic-ui-2.svg" />
