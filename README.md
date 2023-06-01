@@ -29,7 +29,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 <img align="left" alt="Vue.js" width="26px" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" />
 <img align="left" alt="React.js" width="26px" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" />
-<img align="left" alt="Next.js" width="26px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
+<img align="left" alt="Next.js" width="26px" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" />
 <img align="left" alt="Node.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" />
 <img align="left" alt="Express.js" width="26px" src="https://cdn.worldvectorlogo.com/logos/express-109.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://toppng.com//public/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" />
