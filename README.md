@@ -10,7 +10,7 @@
 #### Designing Tools
 <img align="left" alt="Figma" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
 <img align="left" alt="Photoshop" width="26px" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" />
-<img align="left" alt="Krita" width="26px" src="https://www.kindpng.com/picc/m/402-4027556_krita-logo-png-transparent-png.png" />
+<img align="left" alt="Krita" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/1200px-Calligrakrita-base.svg.png" />
 <img align="left" alt="Adobe XD" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />
 <img align="left" alt="Blender" width="26px" src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" />
 
@@ -36,9 +36,9 @@
 <br/>
 
 #### Backend Development
-<img align="left" alt="Node.js" width="26px" src="https://e7.pngegg.com/pngimages/780/57/png-clipart-node-js-javascript-database-mongodb-native-miscellaneous-text.png" />
-<img align="left" alt="Express.js" width="26px" src="https://e7.pngegg.com/pngimages/247/558/png-clipart-node-js-javascript-express-js-npm-react-github-angle-text.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Picture.png" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
+<img align="left" alt="Express.js" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-3521610-2945054.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-3521676-2945120.png" />
 <img align="left" alt="Solidity" width="26px" src="https://www.svgrepo.com/show/374088/solidity.svg" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
 <img align="left" alt="Firebase" width="26px" src="https://cdn.dribbble.com/users/528264/screenshots/3140440/firebase_logo.png" />
