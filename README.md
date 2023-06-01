@@ -40,7 +40,8 @@
 <img align="left" alt="Express.js" width="26px" src="https://e7.pngegg.com/pngimages/247/558/png-clipart-node-js-javascript-express-js-npm-react-github-angle-text.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Picture.png" />
 <img align="left" alt="Solidity" width="26px" src="https://www.svgrepo.com/show/374088/solidity.svg" />
-
+<img align="left" alt="PostgreSQL" width="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
+<img align="left" alt="Firebase" width="26px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-built_white.png" />
 
 <br/>
 
