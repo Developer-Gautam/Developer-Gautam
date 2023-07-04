@@ -1,4 +1,4 @@
-#### 👋 Hi there, I'm Gautam Kumar 👋
+#### 👋 Hi there, I'm Gautam👋
 
 🎨 An Artist turned Developer 🧑‍🎨
 
