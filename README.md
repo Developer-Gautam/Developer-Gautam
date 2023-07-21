@@ -16,11 +16,7 @@
 
 <br/>
 
-#### 📽️ Video Editing
-<img align="left" alt="Premiere Pro" width="26px" src="https://cdn.worldvectorlogo.com/logos/premiere-pro-cc.svg" />
-<img align="left" alt="After Effects" width="26px" src="https://cdn.worldvectorlogo.com/logos/after-effects-cc.svg" />
 
-<br/>
 
 #### 👨‍💻 Frontend Development
 <img align="left" alt="HTML5" width="26px" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
