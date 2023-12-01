@@ -3,7 +3,7 @@
 🎨 An Artist turned Developer 🧑‍🎨
 
 - 🔭 I’m currently having fun
-- 🌱 2023 Goals: Improve my iOS, Android, and web development skills 🥅
+- 🌱 2024 Goals: Improve my iOS, Android, and web development and designing skills 🥅
 
 ### 🛠 Skills
 
