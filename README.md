@@ -11,7 +11,7 @@
 <img align="left" alt="Figma" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
 <img align="left" alt="Photoshop" width="26px" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" />
 <img align="left" alt="Krita" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/1200px-Calligrakrita-base.svg.png" />
-<img align="left" alt="Adobe XD" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />
+<img align="left" alt="Adobe XD" width="26px" src="[https://cdn.worldvectorlogo.com/logos/adobe-xd.svg](https://w7.pngwing.com/pngs/213/165/png-transparent-adobe-logo-logos-xd-logos-and-brands-icon.png)" />
 <img align="left" alt="Blender" width="26px" src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" />
 
 <br/>
